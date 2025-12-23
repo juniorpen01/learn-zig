@@ -2,6 +2,6 @@
     .name = .learn_zig,
     .version = "0.0.1",
     .minimum_zig_version = "0.16.0-dev.1484+d0ba6642b",
-    .paths = .{""},
+    .paths = .{ "build.zig", "build.zig.zon", "src", "LICENSE", "README.md", "wtf" }, // WARN: wtf
     .fingerprint = 0x249d3c1148cb5f40,
 }
